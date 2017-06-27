@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "finalvoyage:blocks/interdiction_matrix_top",
+    "up": "finalvoyage:blocks/interdiction_matrix_top",
+    "down": "finalvoyage:blocks/interdiction_matrix_bottom",
+    "north": "#side",
+    "west": "#side",
+    "south": "#side",
+    "east": "#side"
+  }
+}

@@ -1,0 +1,48 @@
+itemGroup.finalvoyage=A Final Voyage
+
+tile.finalvoyage:netherOre.name=%s Ore
+tile.finalvoyage:netherDirt.dirt.name=Scorched Dirt
+tile.finalvoyage:netherDirt.clay.name=Dehydrated Clay
+tile.finalvoyage:interdictionMatrix.name=Interdiction Matrix
+
+item.finalvoyage:food0.name=MRE
+item.finalvoyage:drink0.name=Disposable Water Packet
+item.finalvoyage:waterBottle.name=Refillable Bottle
+item.finalvoyage:mekanismOre.crystal.name=%s Crystal
+item.finalvoyage:mekanismOre.shard.name=%s Shard
+item.finalvoyage:mekanismOre.clump.name=%s Clump
+item.finalvoyage:mekanismOre.dustDirty.name=Dirty %s Dust
+item.finalvoyage:dust.name=%s Dust
+item.finalvoyage:itemMisc0.name=Entropic Dust
+
+finalvoyage.tooltip.empty=Empty
+finalvoyage.tooltip.interdiction=The interdiction matrix consumes energy to!nprevent mob spawns in a 32-block radius.
+
+finalvoyage.ore.gold=Gold
+finalvoyage.ore.iron=Iron
+finalvoyage.ore.coal=Coal
+finalvoyage.ore.lapis=Lapis Lazuli
+finalvoyage.ore.diamond=Diamond
+finalvoyage.ore.redstone=Redstone
+finalvoyage.ore.emerald=Emerald
+finalvoyage.ore.ruby=Ruby
+finalvoyage.ore.peridot=Peridot
+finalvoyage.ore.sapphire=Sapphire
+finalvoyage.ore.osmium=Osmium
+finalvoyage.ore.copper=Copper
+finalvoyage.ore.tin=Tin
+finalvoyage.ore.silver=Silver
+finalvoyage.ore.lead=Lead
+finalvoyage.ore.aluminium=Aluminium
+finalvoyage.ore.nickel=Nickel
+finalvoyage.ore.platinum=Platinum
+finalvoyage.ore.iridium=Iridium
+finalvoyage.ore.mithril=Mithril
+finalvoyage.ore.draconium=Draconium
+finalvoyage.ore.cobalt=Cobalt
+finalvoyage.ore.ardite=Ardite
+finalvoyage.ore.yellorium=Yellorite
+
+finalvoyage.misc.slurry=%s Slurry
+
+death.attack.thirst=%1$s died of dehydration

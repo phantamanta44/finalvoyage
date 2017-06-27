@@ -1,0 +1,6 @@
+{
+  "parent": "finalvoyage:block/interdiction_matrix",
+  "textures": {
+    "side": "finalvoyage:blocks/interdiction_matrix_side_off"
+  }
+}

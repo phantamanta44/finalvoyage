@@ -1,0 +1,13 @@
+{
+  "forge_marker": 1,
+  "variants": {
+    "type": {
+      "dirt": {
+        "model": "finalvoyage:nether_dirt"
+      },
+      "clay": {
+        "model": "finalvoyage:nether_clay"
+      }
+    }
+  }
+}

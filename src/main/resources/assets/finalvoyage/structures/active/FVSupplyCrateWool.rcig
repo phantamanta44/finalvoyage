@@ -1,0 +1,55 @@
+{
+  "version": 2,
+  "inventoryGeneratorID": "FVSupplyCrateWool",
+  "items": [{
+      "weight": 1.0, "min": 3, "max": 3,
+      "item": { "id": "minecraft:wool", "damage": 0, "count": 3 }
+    }, {
+      "weight": 1.0, "min": 3, "max": 3,
+      "item": { "id": "minecraft:wool", "damage": 1, "count": 3 }
+    }, {
+      "weight": 1.0, "min": 3, "max": 3,
+      "item": { "id": "minecraft:wool", "damage": 2, "count": 3 }
+    }, {
+      "weight": 1.0, "min": 3, "max": 3,
+      "item": { "id": "minecraft:wool", "damage": 3, "count": 3 }
+    }, {
+      "weight": 1.0, "min": 3, "max": 3,
+      "item": { "id": "minecraft:wool", "damage": 4, "count": 3 }
+    }, {
+      "weight": 1.0, "min": 3, "max": 3,
+      "item": { "id": "minecraft:wool", "damage": 5, "count": 3 }
+    }, {
+      "weight": 1.0, "min": 3, "max": 3,
+      "item": { "id": "minecraft:wool", "damage": 6, "count": 3 }
+    }, {
+      "weight": 1.0, "min": 3, "max": 3,
+      "item": { "id": "minecraft:wool", "damage": 7, "count": 3 }
+    }, {
+      "weight": 1.0, "min": 3, "max": 3,
+      "item": { "id": "minecraft:wool", "damage": 8, "count": 3 }
+    }, {
+      "weight": 1.0, "min": 3, "max": 3,
+      "item": { "id": "minecraft:wool", "damage": 9, "count": 3 }
+    }, {
+      "weight": 1.0, "min": 3, "max": 3,
+      "item": { "id": "minecraft:wool", "damage": 10, "count": 3 }
+    }, {
+      "weight": 1.0, "min": 3, "max": 3,
+      "item": { "id": "minecraft:wool", "damage": 11, "count": 3 }
+    }, {
+      "weight": 1.0, "min": 3, "max": 3,
+      "item": { "id": "minecraft:wool", "damage": 12, "count": 3 }
+    }, {
+      "weight": 1.0, "min": 3, "max": 3,
+      "item": { "id": "minecraft:wool", "damage": 13, "count": 3 }
+    }, {
+      "weight": 1.0, "min": 3, "max": 3,
+      "item": { "id": "minecraft:wool", "damage": 14, "count": 3 }
+    }, {
+      "weight": 1.0, "min": 3, "max": 3,
+      "item": { "id": "minecraft:wool", "damage": 15, "count": 3 }
+    }
+  ],
+  "dependencyExpression": ""
+}

@@ -1,0 +1,42 @@
+{
+  "version": 2,
+  "inventoryGeneratorID": "FVNetherForge",
+  "items": [{
+      "weight": 1.0, "min": 1, "max": 3,
+      "item": { "id": "finalvoyage:netherOre0", "damage": 11, "count": 2 }
+    }, {
+      "weight": 1.0, "min": 1, "max": 3,
+      "item": { "id": "finalvoyage:netherOre0", "damage": 12, "count": 2 }
+    }, {
+      "weight": 1.0, "min": 1, "max": 4,
+      "item": { "id": "minecraft:coal", "damage": 0, "count": 4 }
+    }, {
+      "weight": 1.0, "min": 1, "max": 4,
+      "item": { "id": "minecraft:coal", "damage": 1, "count": 3 }
+    }, {
+      "weight": 1.0, "min": 1, "max": 1,
+      "item": { "id": "minecraft:lava_bucket", "damage": 0, "count": 1 }
+    }, {
+      "weight": 1.0, "min": 1, "max": 3,
+      "item": { "id": "finalvoyage:netherOre0", "damage": 1, "count": 2 }
+    }, {
+      "weight": 1.0, "min": 1, "max": 2,
+      "item": { "id": "mekanism:Ingot", "damage": 4, "count": 2 }
+    }, {
+      "weight": 0.3, "min": 1, "max": 1,
+      "item": { "id": "thermalfoundation:tool.hammer_iron", "damage": 0, "count": 1 }
+    }, {
+      "weight": 0.3, "min": 1, "max": 1,
+      "item": { "id": "thermalfoundation:tool.hammer_bronze", "damage": 0, "count": 1 }
+    }, {
+      "weight": 1.0, "min": 1, "max": 3,
+      "item": { "id": "minecraft:iron_ingot", "damage": 0, "count": 2 }
+    }, {
+      "weight": 1.0, "min": 1, "max": 1,
+      "item": { "id": "minecraft:bucket", "damage": 0, "count": 1 }
+    }, {
+      "weight": 1.0, "min": 1, "max": 3,
+      "item": { "id": "mekanism:Ingot", "damage": 2, "count": 2 }
+    }],
+  "dependencyExpression": ""
+}

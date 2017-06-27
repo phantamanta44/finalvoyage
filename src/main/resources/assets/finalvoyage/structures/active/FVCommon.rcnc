@@ -1,0 +1,12 @@
+{
+  "generationInfos": [],
+  "defaultSpawnChance": 0.0002,
+  "spawnDistanceMultiplier": 10.0,
+  "spawnDistanceMultiplierCap": 100.0,
+  "selectableInGUI": true,
+  "title": "FVCommon",
+  "tooltip": [
+    "Supply crates and other relatively common stuff",
+    "Random structure each 50 chunks"
+  ]
+}

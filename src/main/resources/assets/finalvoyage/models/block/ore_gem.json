@@ -1,0 +1,6 @@
+{
+  "parent": "finalvoyage:block/ore_parent",
+  "textures": {
+    "all": "finalvoyage:blocks/ore_gem"
+  }
+}

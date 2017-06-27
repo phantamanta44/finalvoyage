@@ -1,0 +1,76 @@
+{
+  "forge_marker": 1,
+  "variants": {
+    "type": {
+      "gold": {
+        "model": "finalvoyage:ore_metal"
+      },
+      "iron": {
+        "model": "finalvoyage:ore_metal"
+      },
+      "coal": {
+        "model": "finalvoyage:ore_raw"
+      },
+      "lapis": {
+        "model": "finalvoyage:ore_gem"
+      },
+      "diamond": {
+        "model": "finalvoyage:ore_gem"
+      },
+      "redstone": {
+        "model": "finalvoyage:ore_raw"
+      },
+      "emerald": {
+        "model": "finalvoyage:ore_gem"
+      },
+      "ruby": {
+        "model": "finalvoyage:ore_gem"
+      },
+      "peridot": {
+        "model": "finalvoyage:ore_gem"
+      },
+      "sapphire": {
+        "model": "finalvoyage:ore_gem"
+      },
+      "osmium": {
+        "model": "finalvoyage:ore_metal"
+      },
+      "copper": {
+        "model": "finalvoyage:ore_metal"
+      },
+      "tin": {
+        "model": "finalvoyage:ore_metal"
+      },
+      "silver": {
+        "model": "finalvoyage:ore_metal"
+      },
+      "lead": {
+        "model": "finalvoyage:ore_metal"
+      },
+      "aluminium": {
+        "model": "finalvoyage:ore_metal"
+      },
+      "nickel": {
+        "model": "finalvoyage:ore_metal"
+      },
+      "platinum": {
+        "model": "finalvoyage:ore_metal"
+      },
+      "iridium": {
+        "model": "finalvoyage:ore_metal"
+      },
+      "mithril": {
+        "model": "finalvoyage:ore_metal"
+      },
+      "draconium": {
+        "model": "finalvoyage:ore_metal"
+      },
+      "cobalt": {
+        "model": "finalvoyage:ore_metal"
+      },
+      "ardite": {
+        "model": "finalvoyage:ore_metal"
+      }
+    }
+  }
+}

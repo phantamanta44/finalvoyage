@@ -1,0 +1,36 @@
+{
+  "version": 2,
+  "inventoryGeneratorID": "FVSupplyCrateMonument",
+  "items": [{
+    "weight": 1.0, "min": 1, "max": 3,
+    "item": { "id": "minecraft:diamond_block", "damage": 0, "count": 1 }
+  }, {
+    "weight": 1.0, "min": 1, "max": 2,
+    "item": { "id": "minecraft:emerald_block", "damage": 0, "count": 1 }
+  }, {
+    "weight": 1.0, "min": 1, "max": 1,
+    "item": { "id": "thermalfoundation:storage", "damage": 6, "count": 1 }
+  }, {
+    "weight": 1.0, "min": 1, "max": 3,
+    "item": { "id": "thermalfoundation:storage", "damage": 7, "count": 1 }
+  }, {
+    "weight": 1.0, "min": 1, "max": 3,
+    "item": { "id": "thermalfoundation:storage_alloy", "damage": 1, "count": 1 }
+  }, {
+    "weight": 1.0, "min": 1, "max": 3,
+    "item": { "id": "thermalfoundation:storage_alloy", "damage": 5, "count": 1 }
+  }, {
+    "weight": 1.0, "min": 1, "max": 1,
+    "item": { "id": "thermalfoundation:storage_alloy", "damage": 7, "count": 1 }
+  }, {
+    "weight": 1.0, "min": 1, "max": 2,
+    "item": { "id": "tconstruct:metal", "damage": 0, "count": 1 }
+  }, {
+    "weight": 1.0, "min": 1, "max": 2,
+    "item": { "id": "tconstruct:metal", "damage": 1, "count": 1 }
+  }, {
+    "weight": 1.0, "min": 1, "max": 1,
+    "item": { "id": "tconstruct:metal", "damage": 2, "count": 1 }
+  }],
+  "dependencyExpression": ""
+}
