@@ -13,6 +13,7 @@ import net.minecraft.item.crafting.CraftingManager;
 import net.minecraftforge.fluids.FluidRegistry;
 import net.minecraftforge.fluids.FluidStack;
 import net.minecraftforge.fml.common.registry.GameRegistry;
+import net.minecraftforge.oredict.OreDictionary;
 import net.minecraftforge.oredict.ShapedOreRecipe;
 import net.minecraftforge.oredict.ShapelessOreRecipe;
 
@@ -189,6 +190,10 @@ public class IntRecipes {
         IMCHelper.addPulverizerRecipe(2000,
                 new ItemStack(Items.WHEAT),
                 itemStack(NAT, "materials", 1, 2));
+        for (int i = 0; i <= 8; i++)
+            OreDictionary.registerOre("workbench", itemStack(NAT, "overworld_workbenches", 1, i));
+        for (int i = 0; i <= 3; i++)
+            OreDictionary.registerOre("workbench", itemStack(NAT, "nether_workbenches", 1, i));
     }
 
     private static void registerMekanism() {

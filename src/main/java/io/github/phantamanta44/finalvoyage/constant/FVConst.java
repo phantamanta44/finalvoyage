@@ -6,7 +6,7 @@ public class FVConst {
 
     public static final String MOD_ID = "finalvoyage";
     public static final String MOD_PREF = MOD_ID + ":";
-    public static final String MOD_VERSION = "1.0.0";
+    public static final String MOD_VERSION = "1.0.1";
 
     public static final ResourceLocation LOC_WIDGETS = new ResourceLocation(MOD_ID, "textures/gui/widgets.png");
 
